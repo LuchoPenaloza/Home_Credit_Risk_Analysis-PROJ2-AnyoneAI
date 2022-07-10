@@ -1,2 +1,9 @@
 # Home_Credit_Risk_Analysis-PROJ2-AnyoneAI
-Goal: predict if a person applying for a home credit will be able to pay back their debt or not
+
+This is a project part of the Anyone AI program, where are being developing knowledge and hard skills in machine learning, deep learning and artificial intelligence.
+
+Goal: predict if a person applying for a home credit will be able to pay back their debt or not.
+
+Data manipulation, visualization, and pre-processing were performed on a sizable dataset with +350,000 transactions. Several supervised models, such as DecisionTree, XGBoost and LightGBM, were trained, achieving +0.74 ROC AUC.
+
+One notebook was developed in this project, with the entire project included.
